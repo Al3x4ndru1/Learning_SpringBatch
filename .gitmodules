@@ -1,0 +1,9 @@
+[submodule "MainApplication"]
+	path = MainApplication
+	url = https://github.com/Al3x4ndru1/MainApplication.git
+[submodule "CheckingForSQLInjections"]
+	path = CheckingForSQLInjections
+	url = https://github.com/Al3x4ndru1/CheckingForSQLInjections.git
+[submodule "DataBaseMiroservice"]
+	path = DataBaseMiroservice
+	url = https://github.com/Al3x4ndru1/DataBaseMiroservice.git
